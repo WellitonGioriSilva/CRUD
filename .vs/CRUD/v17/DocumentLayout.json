@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2024102060009\\Desktop\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE731358-56FA-45B0-BBA7-6F1CB8ECBE7D}|CRUD.csproj|c:\\users\\2024102060009\\desktop\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE731358-56FA-45B0-BBA7-6F1CB8ECBE7D}|CRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE731358-56FA-45B0-BBA7-6F1CB8ECBE7D}|CRUD.csproj|c:\\users\\2024102060009\\desktop\\crud\\utilitarios\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE731358-56FA-45B0-BBA7-6F1CB8ECBE7D}|CRUD.csproj|solutionrelative:utilitarios\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE731358-56FA-45B0-BBA7-6F1CB8ECBE7D}|CRUD.csproj|c:\\users\\2024102060009\\desktop\\crud\\mapeamento\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE731358-56FA-45B0-BBA7-6F1CB8ECBE7D}|CRUD.csproj|solutionrelative:mapeamento\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060009\\Desktop\\CRUD\\Mapeamento\\Aluno.cs",
+              "RelativeDocumentMoniker": "Mapeamento\\Aluno.cs",
+              "ToolTip": "C:\\Users\\2024102060009\\Desktop\\CRUD\\Mapeamento\\Aluno.cs",
+              "RelativeToolTip": "Mapeamento\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:48:10.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060009\\Desktop\\CRUD\\Utilitarios\\Conexao.cs",
+              "RelativeDocumentMoniker": "Utilitarios\\Conexao.cs",
+              "ToolTip": "C:\\Users\\2024102060009\\Desktop\\CRUD\\Utilitarios\\Conexao.cs",
+              "RelativeToolTip": "Utilitarios\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:30:02.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2024102060009\\Desktop\\CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2024102060009\\Desktop\\CRUD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:04:40.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
